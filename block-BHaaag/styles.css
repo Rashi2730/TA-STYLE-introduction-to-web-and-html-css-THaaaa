@@ -1,9 +1,6 @@
-.bg
-{
-    background-color: rgb(224, 175, 175);
+.bg {
+    background-color: aquamarine;
 }
-.red
-{
-    color: rgb(255, 0, 0);
-    font-size: 28px;
+.red {
+    color: burlywood;
 }
