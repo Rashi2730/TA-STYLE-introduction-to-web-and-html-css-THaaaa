@@ -1,9 +1,9 @@
 .bg
 {
-    background-color: blue;
+    background-color: rgb(224, 175, 175);
 }
-.green
+.red
 {
-    color: green;
+    color: rgb(255, 0, 0);
     font-size: 28px;
 }
